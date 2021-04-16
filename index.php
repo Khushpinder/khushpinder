@@ -101,7 +101,7 @@ if(isset($_POST)&&!empty($_POST)){
 
                     <div class="col-sm-3">
                         <div class="logo">
-                            <a href="index.php">Khushpinder</a>
+                            <a href="/">Khushpinder</a>
                         </div>
                     </div>
 
@@ -252,7 +252,8 @@ if(isset($_POST)&&!empty($_POST)){
 
                     <div class="col-md-4 col-sm-6 col-xs-12 mix php">
                         <div class="item">
-                            <a href="http://rms.zapbuild.com/" class="" target="_blank" title="Recruitment Management System">
+                            <a href="http://rms.zapbuild.com/" class="" target="_blank"
+                                title="Recruitment Management System">
                                 <img src="images/portfolio/5.jpg" alt="">
                             </a>
                         </div>
@@ -358,7 +359,8 @@ if(isset($_POST)&&!empty($_POST)){
                         <i class="fa fa-mobile color-1"></i>
                         <h3>Mobile Design</h3>
                         <hr>
-                        <p>All of my projects are responsive design that means open in every mobile phone without breaking any part of the design.</p>
+                        <p>All of my projects are responsive design that means open in every mobile phone without
+                            breaking any part of the design.</p>
                     </div>
                 </div>
 
@@ -377,8 +379,8 @@ if(isset($_POST)&&!empty($_POST)){
                         <h3>Clean Code</h3>
                         <hr>
                         <p>All of my code written well documented and managed on GIT.
-                        Also written technical documents for some professional projects
-                        that are easily understood by another developer.</p>
+                            Also written technical documents for some professional projects
+                            that are easily understood by another developer.</p>
                     </div>
                 </div>
 
@@ -387,7 +389,8 @@ if(isset($_POST)&&!empty($_POST)){
                         <i class="fa fa-support color-4"></i>
                         <h3>Full Stack</h3>
                         <hr>
-                        <p>Great knowlege of PHP(CakePHP, Magento, Wordpress, Laravel), ANgularJS, Angular 2+, NodeJS.</p>
+                        <p>Great knowlege of PHP(CakePHP, Magento, Wordpress, Laravel), ANgularJS, Angular 2+, NodeJS.
+                        </p>
                     </div>
                 </div>
 
@@ -405,7 +408,8 @@ if(isset($_POST)&&!empty($_POST)){
                         <i class="fa fa-database color-6"></i>
                         <h3>Database Design</h3>
                         <hr>
-                        <p>Strong knowledge of relational databases and NoSQL databases. In Relational database, have experience of MySQL and PostgreSQL and in NoSQL, MongoDB</p>
+                        <p>Strong knowledge of relational databases and NoSQL databases. In Relational database, have
+                            experience of MySQL and PostgreSQL and in NoSQL, MongoDB</p>
                     </div>
                 </div>
 
@@ -484,23 +488,26 @@ if(isset($_POST)&&!empty($_POST)){
                 <div class="col-md-6">
 
                     <div class="row">
-                        <form action="index.php" metod="post">
+                        <form action="/" method="post">
 
                             <div class="col-sm-6">
                                 <div class="form-group">
-                                    <input type="text" name="fullname" id="name" class="form-control" placeholder="Your Name">
+                                    <input type="text" name="fullname" id="name" class="form-control"
+                                        placeholder="Your Name">
                                 </div>
                             </div>
 
                             <div class="col-sm-6">
                                 <div class="form-group">
-                                    <input type="email" name="email" id="email" class="form-control" placeholder="Your Email">
+                                    <input type="email" name="email" id="email" class="form-control"
+                                        placeholder="Your Email">
                                 </div>
                             </div>
 
                             <div class="col-sm-6">
                                 <div class="form-group">
-                                    <input type="text" id="website" class="form-control" placeholder="Your Website" name="website">
+                                    <input type="text" id="website" class="form-control" placeholder="Your Website"
+                                        name="website">
                                 </div>
                             </div>
 
@@ -544,7 +551,7 @@ if(isset($_POST)&&!empty($_POST)){
 
                 <div class="col-md-6">
                     <div id="my-address" class="map space-set">
-                        <p id="googleMap">Map will not be display without Internet Connection.</p>
+                        <p id="googleMsap"><img src="images/portfolio/map.png" alt=""></p>
                     </div>
                 </div>
 
@@ -598,7 +605,6 @@ if(isset($_POST)&&!empty($_POST)){
     <!-- All Javascript Plugins  -->
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/plugin.js"></script>
-    <script type="text/javascript" src="http://maps.google.com/maps/api/js?key="></script>
 
     <!-- Main Javascript File  -->
     <script type="text/javascript" src="js/scripts.js"></script>
