@@ -101,7 +101,7 @@ if(isset($_POST)&&!empty($_POST)){
 
                     <div class="col-sm-3">
                         <div class="logo">
-                            <a href="/">Khushpinder</a>
+                            <a href="index.html">Khushpinder</a>
                         </div>
                     </div>
 
@@ -126,7 +126,7 @@ if(isset($_POST)&&!empty($_POST)){
                                         </li>
                                         <li><a class="smoth-scroll" href="#portfolio">Portfolio</a>
                                         </li>
-                                        <li><a class="smoth-scroll" href="#services">services</a>
+                                        <li><a class="smoth-scroll" href="#services">Skills</a>
                                         </li>
                                         <li><a class="smoth-scroll" href="#contact">Contact</a>
                                         </li>
@@ -346,8 +346,8 @@ if(isset($_POST)&&!empty($_POST)){
             <div class="row">
                 <div class="col-sm-12">
                     <div class="section-title">
-                        <h2>My Services.</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                        <h2>My Skills.</h2>
+                        <p>I have strong technical skills. Some are of them as followings.</p>
                     </div>
                 </div>
             </div>
@@ -426,7 +426,7 @@ if(isset($_POST)&&!empty($_POST)){
             <div class="row">
                 <div class="col-md-12">
 
-                    <h3>Are You Looking For Your Business Online Presence?</h3>
+                    <h3>Hire Me As Freelancer, If You Are You Looking For Your Business Online Presence?</h3>
 
                     <div class="text-center margin-top-20">
                         <a class="button button-style button-style-dark button-style-icon fa fa-long-arrow-right smoth-scroll"
@@ -449,7 +449,7 @@ if(isset($_POST)&&!empty($_POST)){
                 <div class="col-sm-12">
                     <div class="section-title">
                         <h2>Contact Me.</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                        <p>You can contact me by email, phone or direct form filling.</p>
                     </div>
                 </div>
             </div>
@@ -475,7 +475,7 @@ if(isset($_POST)&&!empty($_POST)){
                     <div class="col-md-4 col-sm-4">
                         <div class="contact-us-detail">
                             <i class="fa fa-clock-o color-3"></i>
-                            <p>Mon - Fri 09:00 – 18:00</p>
+                            <p>Mon - Fri 10:30 – 19:00 EST</p>
                         </div>
                     </div>
 
@@ -488,7 +488,7 @@ if(isset($_POST)&&!empty($_POST)){
                 <div class="col-md-6">
 
                     <div class="row">
-                        <form action="/" method="post">
+                        <form action="index.php" method="post">
 
                             <div class="col-sm-6">
                                 <div class="form-group">
@@ -501,20 +501,6 @@ if(isset($_POST)&&!empty($_POST)){
                                 <div class="form-group">
                                     <input type="email" name="email" id="email" class="form-control"
                                         placeholder="Your Email">
-                                </div>
-                            </div>
-
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <input type="text" id="website" class="form-control" placeholder="Your Website"
-                                        name="website">
-                                </div>
-                            </div>
-
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <input type="text" id="address" name="address" class="form-control"
-                                        placeholder="Where are You From?">
                                 </div>
                             </div>
 
@@ -567,6 +553,8 @@ if(isset($_POST)&&!empty($_POST)){
                             class="fa fa-twitter"></i></a></li>
                 <li><a href="https://www.linkedin.com/in/khushpinder/" target="_blank" class="linkedin"><i
                             class="fa fa-linkedin"></i></a></li>
+                <li><a href="https://github.com/Khushpinder" target="_blank" class="github"><i
+                            class="fa fa-github"></i></a></li>
                 <li><a href="https://www.instagram.com/gill22786/" target="_blank" class="instagram"><i
                             class="fa fa-instagram"></i></a></li>
             </ul>
@@ -589,7 +577,7 @@ if(isset($_POST)&&!empty($_POST)){
                 </div>
 
                 <div class="col-md-4 text-center">
-                    <p>© Copyright 2016 khushpinder.</p>
+                    <p>© Copyright 2021 khushpinder.</p>
                 </div>
             </div>
         </div>
