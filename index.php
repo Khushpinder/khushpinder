@@ -181,7 +181,7 @@ if(isset($_POST)&&!empty($_POST)){
 
                     <h2>About Me.</h2>
 
-                    <p>Senior Software Developer with 6 years of experience in web development. Leadership
+                    <p>Senior Software Developer with 8 years of experience in web development. Leadership
                         style with a focus on building communicative and effective teams in a competitive
                         environment.</p>
                 </div>
@@ -426,8 +426,6 @@ if(isset($_POST)&&!empty($_POST)){
             <div class="row">
                 <div class="col-md-12">
 
-                    <h3>Hire Me As Freelancer, If You Are You Looking For Your Business Online Presence?</h3>
-
                     <div class="text-center margin-top-20">
                         <a class="button button-style button-style-dark button-style-icon fa fa-long-arrow-right smoth-scroll"
                             href="#contact">Contact Me</a>
@@ -475,7 +473,7 @@ if(isset($_POST)&&!empty($_POST)){
                     <div class="col-md-4 col-sm-4">
                         <div class="contact-us-detail">
                             <i class="fa fa-clock-o color-3"></i>
-                            <p>Mon - Fri 10:30 – 19:00 EST</p>
+                            <p>Mon - Fri 10:30 – 19:00 PST</p>
                         </div>
                     </div>
 
@@ -577,7 +575,7 @@ if(isset($_POST)&&!empty($_POST)){
                 </div>
 
                 <div class="col-md-4 text-center">
-                    <p>© Copyright 2021 khushpinder.</p>
+                    <p>© Copyright 2023 khushpinder.</p>
                 </div>
             </div>
         </div>
