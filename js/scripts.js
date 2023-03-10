@@ -110,7 +110,7 @@
 
         $(window).load(function () {
             $(".typing").typed({
-                strings: ["I am A Full-stack Developer.", "I Develop Websites.", "I Live in Montreal."],    /* You can change the home section typing text from
+                strings: ["I am a Magento Developer.", "I developed Websites.", "I Live in Surrey, BC."],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
                 typeSpeed: 50
             });
